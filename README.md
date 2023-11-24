@@ -1,8 +1,8 @@
 # intentfezria
 
-Nama : nurkholik safrudin
+Nama : Fezria mahardika
 
-NIM : 312210507
+NIM : 312210585
 
 Kelas : TI.22.A5
 
